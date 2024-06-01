@@ -9,6 +9,7 @@ An immersive music player with Mixcloud integration and dynamic visual effects</
 
 <p align='center'><i>Click the image to try out the app</i>
 
+
 ## How to use
 
 For casual users who just want to discover some new music with fullscreen visuals, hit the image above or link below to launch the Mixmotion web app on your mobile, desktop or TV device.
