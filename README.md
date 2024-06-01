@@ -3,19 +3,6 @@
 </h1>
 
 <p align='center'>
-  <a href='https://www.npmjs.com/package/mixmotion-player' target="_blank">
-    <img src='https://img.shields.io/npm/v/mixmotion-player.svg' alt='Latest npm version'>
-  </a>
-    <a href='https://github.com/lewhunt/mixmotion/blob/main/LICENSE' target="_blank">
-      <img src='https://img.shields.io/badge/License-GPLv3-yellow.svg' alt='GPLv3 License'>
-  </a>
-    <a href='https://www.npmjs.com/package/mixmotion-player' target="_blank">
-    <img src='https://img.shields.io/npm/dm/mixmotion-player.svg' alt='Monthly npm downloads'>
-  </a>
-
-</p>
-
-<p align='center'>
 An immersive music player with Mixcloud integration and dynamic visual effects</p>
 
 [![https://lewhunt.github.io/mixmotion/](https://lewhunt.github.io/assets/readme/mm-player-example.jpg)](https://lewhunt.github.io/mixmotion/)
@@ -25,16 +12,6 @@ An immersive music player with Mixcloud integration and dynamic visual effects</
 ## How to use
 
 For casual users who just want to discover some new music with fullscreen visuals, hit the image above or link below to launch the Mixmotion web app on your mobile, desktop or TV device.
-
-### [:point_right: Try out the App :point_left:](https://lewhunt.github.io/mixmotion/)
-
-On playback, you'll enter an immersive lean-back mode, with a huge variety of dynamic backgrounds appearing after a few seconds of user inactivity. Below is a quick video of the app transitioning between playback modes:
-
-https://github.com/lewhunt/mixmotion/assets/9886284/95a2116f-5e4c-47fc-af65-6e65a53a0048
-
-More screenshots and videos at the end of this doc.
-
-<hr>
 
 ## Installation
 

@@ -286,7 +286,7 @@ export const MixmotionPlayerUI: React.FC<MixmotionPlayerProps> = (props) => {
         action: "github",
         label: "About",
         onPress: () =>
-          window.open("https://github.com/lewhunt/mixmotion", "_blank"),
+          window.open("https://github.com/alirezamajdi/Music-Player", "_blank"),
         faIcon: faGithub,
       },
       custom: {
